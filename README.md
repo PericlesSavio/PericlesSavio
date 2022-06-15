@@ -17,3 +17,4 @@ ___
   <a href="https://github.com/PericlesSavio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PericlesSavio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+![](https://komarev.com/ghpvc/?username=PericlesSavio&color=green)
