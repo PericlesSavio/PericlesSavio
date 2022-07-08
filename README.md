@@ -4,7 +4,7 @@ ___
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pericles.marques@outlook.com)
 ___
 #### Some projects
- - [https://ne-dados-fc.vercel.app/](https://ne-dados-fc.vercel.app/)
+ - [https://nedadosfc.herokuapp.com/](https://nedadosfc.herokuapp.com/)
  - [https://periclessavio.github.io/Moedas/](https://periclessavio.github.io/Moedas/)
  - [https://periclessavio.shinyapps.io/covid19/](https://periclessavio.shinyapps.io/covid19/)
  - [https://periclessavio.shinyapps.io/dados_futebol/](https://periclessavio.shinyapps.io/dados_futebol/)
