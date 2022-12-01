@@ -10,6 +10,7 @@ ___
  - [https://periclessavio.shinyapps.io/dados_futebol/](https://periclessavio.shinyapps.io/dados_futebol/)
  - [https://periclessavio.github.io/Nostalgiando/](https://periclessavio.github.io/Nostalgiando/)
  - [https://share.streamlit.io/periclessavio/covid-streamlit/main/app.py](https://share.streamlit.io/periclessavio/covid-streamlit/main/app.py)
+ - [https://thiagogermano.com/](https://thiagogermano.com/)
 ___
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
