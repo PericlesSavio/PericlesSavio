@@ -1,15 +1,11 @@
-### Hi there 👋
-___
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/periclessavio/)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pericles.marques@outlook.com)
 ___
 #### Some projects
- - [https://nedadosfc.herokuapp.com/](https://nedadosfc.herokuapp.com/)
  - [https://periclessavio.github.io/Moedas/](https://periclessavio.github.io/Moedas/)
  - [https://periclessavio.shinyapps.io/covid19/](https://periclessavio.shinyapps.io/covid19/)
  - [https://periclessavio.shinyapps.io/dados_futebol/](https://periclessavio.shinyapps.io/dados_futebol/)
  - [https://periclessavio.github.io/Nostalgiando/](https://periclessavio.github.io/Nostalgiando/)
- - [https://share.streamlit.io/periclessavio/covid-streamlit/main/app.py](https://share.streamlit.io/periclessavio/covid-streamlit/main/app.py)
  - [https://thiagogermano.com/](https://thiagogermano.com/)
 ___
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
